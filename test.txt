@@ -3,3 +3,7 @@ des informations importantes
 j’ajoute d’autres modifications facultatives à mon fichier
 
 ajouté une date : 09/10/1980
+
+calcule : 
+18 * 15 - 51 
+2X + 21Y = 44Z
