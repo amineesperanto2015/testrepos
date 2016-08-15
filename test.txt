@@ -1,3 +1,5 @@
 des informations importantes
 
 j’ajoute d’autres modifications facultatives à mon fichier
+
+ajouté une date : 09/10/1980
